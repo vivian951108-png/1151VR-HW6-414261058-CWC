@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eeb1f4e0ea3a0e1498efadc9d80ff551
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundMusic: {fileID: 8300000, guid: b421cf96cc3120748a343f000718d6d4, type: 3}
+  - victorySound: {fileID: 8300000, guid: 0bdd1307ab128704ba919e193b624e39, type: 3}
+  - defeatSound: {fileID: 8300000, guid: 03873bf5528ccea489beaf4aa9c88052, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
